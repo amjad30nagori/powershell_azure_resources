@@ -1,0 +1,14 @@
+Azure Domain Name Service
+ExpressRoute
+Virtual Network (VNet)
+Virtual Network Gateway
+Azure Private Link
+Azure Backup
+Azure Storage Account
+Azure Data Factory
+SQL Database
+Web Apps (App Service)
+Azure Security Center
+Azure Active Directory
+Key Vault
+CosmosDB
